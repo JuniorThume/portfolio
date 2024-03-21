@@ -1,2 +1,2 @@
 # portfolio
-#TODO
+// TODO Progredir conforme o andamento do projeto
